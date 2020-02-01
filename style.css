@@ -1,0 +1,9 @@
+body{
+  font-family: sans-serif;
+  background: yellow;
+  background-size: cover;
+}
+
+.container{
+    text-align: center;
+}
